@@ -33,4 +33,3 @@ StegoShield lets you:
 - Open this tab to see a live list of all actions performed.
 - Logs are also saved automatically to ```audit_log.txt```.
 
-##### (c) 2026 Maheswar S & Co. All rights reserved
